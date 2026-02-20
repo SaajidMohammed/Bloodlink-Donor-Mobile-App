@@ -21,7 +21,10 @@
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
       "package": "com.saajidmohammed.bloodlinkdonormobile",
-      "usesCleartextTraffic": true
+      "usesCleartextTraffic": true,
+      "permissions":[
+        "INTERNET"
+      ]
     },
     "web": {
       "output": "static",
