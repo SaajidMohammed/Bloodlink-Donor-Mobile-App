@@ -22,7 +22,7 @@
       "predictiveBackGestureEnabled": false,
       "package": "com.saajidmohammed.bloodlinkdonormobile",
       "usesCleartextTraffic": true,
-      "permissions":[
+      "permissions": [
         "INTERNET"
       ]
     },
@@ -56,6 +56,7 @@
       "eas": {
         "projectId": "4d057792-9be5-478e-b818-8fd31c4331d5"
       }
-    }
+    },
+    "owner": "saajidmohammed"
   }
 }
