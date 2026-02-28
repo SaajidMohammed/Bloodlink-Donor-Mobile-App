@@ -1,7 +1,7 @@
 // constants/API.ts
 
 // Replace with your actual Render URL
-export const BASE_URL = 'https://bloodlink-server-g6ee.onrender.com/api';
+export const BASE_URL = process.env.EXPO_PUBLIC_API_URL;
 
 export const ENDPOINTS = {
   LOGIN: '/auth/login',
